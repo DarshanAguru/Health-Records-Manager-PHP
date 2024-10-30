@@ -295,7 +295,7 @@ session_start();
       </div>
 
       <hr>
-<small>Made with ❤️ by team Health Records.</small>
+<small>Made with ❤️ by team Health Records. Copyright 2024 (c) Health Records</small>
       
     </div>
   </footer>
